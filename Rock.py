@@ -1,5 +1,5 @@
 # A python code for the working of my table lamp
-# It has two options, we can turn on the night light or normal light or both at the same time.
+# It has two options, we can turn on the night light or normal light or both at the same time
 # Normal light has three levels of brightness, lets call them 1, 2 and 3
 # if we click the normal light button fourth time, it gets off.
 # Lets get started
